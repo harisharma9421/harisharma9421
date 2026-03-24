@@ -9,11 +9,13 @@
 <table>
 <tr>
 <td width="240" valign="top">
-
 <div align="center">
+
+<img src="./harrys_image.png" width="150" style="border-radius: 50%; box-shadow: 0 0 15px #00fff7;" />
+
 <br/><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=harisharma9421&color=00fff7&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=harisharma9421&label=👁️‍🗨️+PROFILE+VIEWS&color=00fff7&style=for-the-badge)
 
 </div>
 
